@@ -1,0 +1,34 @@
+Link para download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+##### Configurar usuário
+
+`git config --global user.name "CosmoAndrade"`
+
+#####  Configurar e-mail
+
+`git config --global user.email cosmo.andrade@hotmail.com`
+
+
+
+##### Iniciar Repositório
+
+`git init`
+
+`git add`
+
+`git log`
+
+`git commit –m “coloque sua mensagem aqui”`
+
+`git status`
+
+#### Subir repositório
+
+
+`git remote add origin https://github.com/CosmoAndrade/dio-desafio-github.git`
+`git branch -M main`
+`git push -u origin main`
+
+
+
